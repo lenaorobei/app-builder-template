@@ -1,7 +1,7 @@
 {
   "name": "@lenaorobei/app-builder-template",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "Description goes here",
   "engines": {
     "node": "^14 || ^16"
   },
