@@ -6,8 +6,8 @@ $schema: http://json-schema.org/draft-07/schema
 $id: https://adobe.io/schemas/app-builder-templates/1
 
 categories:
-  - actio
-  - graphql-mes
+  - action
+  - graphql-mesh
 
 extensions:
   - extensionPointId: aem/cf-console-admin/1
