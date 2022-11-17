@@ -6,15 +6,7 @@ $schema: http://json-schema.org/draft-07/schema
 $id: https://adobe.io/schemas/app-builder-templates/1
 
 categories:
-  - add-action
+  - action
 
-# metadata for a category
-extension:
-  -  id: dx/excshell/1
-     operations:
-       - view
-
-services:
-  - AnalyticsSDK
-  - CampaignStandard
-  - Runtime
+extensions:
+  - extensionPointId: aem/cf-console-admin/1
