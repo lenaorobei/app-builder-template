@@ -1,6 +1,6 @@
 {
   "name": "@lenaorobei/app-builder-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "engines": {
     "node": "^14 || ^16"
@@ -18,7 +18,7 @@
     "adobeio",
     "app",
     "templates",
-    "aio-app-builder"
+    "aio-app-builder-template"
   ],
   "author": "Adobe Inc.",
   "license": "Apache-2.0",
